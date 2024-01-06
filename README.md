@@ -1,16 +1,31 @@
-### Hi there 👋
+### Halo, Ish bin Vaishali 👋
 
 <!--
 **Vaishali0789/Vaishali0789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm interested in
+- Learning 👩‍💻
+- Creativity 🧠
+- Travelling 🚇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on my **2024 Resolutions** 
+- One of which is definitely to get a good role as a Data Scientist💯
+
+I'm looking for a role as a **Data Scientist** which can leverage to my skills and career
+
+Langauges
+- Marathi
+  - It's my Mother tongue
+- Hindi
+  - It's one of the most used and official langauges of India and my favourite too
+- English
+- German
+  - I'm learning this langauge as I'm fond of foreign languages
+
+- 📫 How to reach me:📧 vaishalidharmik6@gmail.com
+
+**Quick Skills Overview:**
+- **Programming** - Python 
+- **RDBMS** - SQL
+- **Data Science** - 🔍 Fundamental skills in analysis & methodologies
+
